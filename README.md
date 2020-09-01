@@ -1,1 +1,1 @@
-# SSD-Lab-Activity-2
+"This is my first git Project"
